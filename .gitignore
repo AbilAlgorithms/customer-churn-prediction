@@ -1,0 +1,18 @@
+# Environments
+venv/
+env/
+.env
+
+# Data and Models (Too large for GitHub)
+data/raw/
+data/processed/
+models/
+
+# Python Cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# IDEs
+.idea/
+.vscode/
