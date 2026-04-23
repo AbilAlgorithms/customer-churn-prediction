@@ -6,7 +6,6 @@ env/
 # Data and Models (Too large for GitHub)
 data/raw/
 data/processed/
-models/
 
 # Python Cache
 __pycache__/
