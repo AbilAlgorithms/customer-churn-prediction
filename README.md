@@ -16,3 +16,5 @@ This is not just a Jupyter Notebook; it is a scalable, multi-tenant-ready archit
    ```bash
    git clone [https://github.com/AbilAlgorithms/customer-churn-prediction.git](https://github.com/AbilAlgorithms/customer-churn-prediction.git)
    cd customer-churn-prediction
+   
+![UI Screenshot](assets/ui_screenshot.png.png)
