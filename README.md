@@ -2,7 +2,7 @@
 
 **Live Application:** [View the Deployed System Here](https://churn-predictor-abil.streamlit.app)
 
-![Light Mode UI](assets/light_mode.png)
+![Light Mode UI](assets/light_mode.jpeg)
 
 ## 🎯 Executive Summary
 Customer churn is a silent revenue killer. Acquiring a new customer costs up to 5x more than retaining an existing one. This project delivers a production-ready Machine Learning pipeline that predicts customer churn probability with a focus on **high recall**, wrapped in a custom dual-theme SaaS dashboard for executive decision-making.
@@ -21,4 +21,4 @@ This is not just a Jupyter Notebook; it is a scalable, multi-tenant-ready archit
    git clone [https://github.com/AbilAlgorithms/customer-churn-prediction.git](https://github.com/AbilAlgorithms/customer-churn-prediction.git)
    cd customer-churn-prediction
    
-![Dark Mode UI](assets/dark_mode.png)
+![Dark Mode UI](assets/dark_mode.jpeg)
