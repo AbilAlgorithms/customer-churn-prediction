@@ -14,5 +14,5 @@ This is not just a Jupyter Notebook; it is a scalable, multi-tenant-ready archit
 ## 🚀 Quick Start
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/churn-prediction-system.git](https://github.com/yourusername/churn-prediction-system.git)
-   cd churn-prediction-system
+   git clone [https://github.com/AbilAlgorithms/customer-churn-prediction.git](https://github.com/AbilAlgorithms/customer-churn-prediction.git)
+   cd customer-churn-prediction
